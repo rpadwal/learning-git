@@ -16,3 +16,4 @@ This is from master (GitHub Rebase testing)
 Thansk all my student
 This is from master (GitHub Rebase testing)
 This is for stash
+Demo for un-added file with Pop
