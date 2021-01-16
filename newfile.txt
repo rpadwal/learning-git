@@ -1,0 +1,21 @@
+
+
+rgwreg
+
+
+This is from branch title-new
+
+
+This is from branch add-copyright
+
+
+Added in simple-changes
+
+
+Thsi is from feature-200555 branch
+Thansk all my student
+This is from master (GitHub Rebase testing)
+Thansk all my student
+This is from master (GitHub Rebase testing)
+This is for stash
+Demo for un-added file with Pop
